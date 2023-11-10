@@ -11,9 +11,7 @@ Beijing, China
 
 $30,000+
 
-## Website
-
-[https://ethbeijing.xyz](https://ethbeijing.xyz)
+## Website - [https://ethbeijing.xyz](https://ethbeijing.xyz)
 
 ## Application link
 
